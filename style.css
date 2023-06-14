@@ -923,6 +923,15 @@ position: static;
 .about-content .abouth3{
   color:var(--main-color);
   font-weight: bold;
+  font-size:1.8rem;
+}
+  .about-content p{
+  font-size:1.5rem;
+}
+.aboutP{
+  font-size:1.5rem;
+}
+.about .aboutP{
   font-size:1.5rem;
 }
 .container > div{
